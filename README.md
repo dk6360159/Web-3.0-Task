@@ -118,6 +118,16 @@ int main(){
  then we used destructor (**destructor is last function of life of an object of any class** )this show us that transaction completed;
  
  3. Borrower class :: Like lender class borrower is also a child class of customer class. this also same type of methods like lender class. borrowmoney() function adds money to account of borrower;that he wants to borrow from bank;
+  
+  
+  
+  
+  
+  **2** Answer written above is centralized loaning system.
+  1. in centralized system employees are only expected to deliver results according to what the top executives assign them. Employees are unable to contribute to the decision-making process of the organization,employees are only implementers of dicision taken by higher level.Higher level management are unable to understand the problems faced by lower level imployees because they are only implementers of decision. SO, in this situtation employees lack of motivation.
+  2. In centrelized system employees do not get chance to take their initiative in the work they do. IN this way they lack of loyalty.
+  3. IN centralizatoin record are sent to head management and from head management to employees this process takes time this delay in work completion.In this way employees get less time to complete the task.
+  
  
  
 
